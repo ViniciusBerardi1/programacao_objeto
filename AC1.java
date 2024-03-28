@@ -145,3 +145,12 @@ class Caminhao extends Veiculo {
         return 500.0;
     }
 }
+
+// precisa ser feito:
+//Crie mais 3 atributos que julgar necessário para cada classe
+//7 Crie um método chamado descricao() que retorna uma string contendo
+//os valores de cada atributo, e também se a placa é válida ou não.
+//8 Crie instancias dessas classes e altere seus dados e teste seus métodos.
+//9 O método insert() que gera o comando insert para um banco de dados
+//relacional. Por exemplo: 'insert into skates (nome, marca, cor)
+//values ('Planador do Asfalto', 'Giro Radical', ‘Azul’);
